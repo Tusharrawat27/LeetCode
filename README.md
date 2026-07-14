@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tusharrawat27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tusharrawat27/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Tusharrawat27/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tusharrawat27/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tusharrawat27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tusharrawat27/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tusharrawat27/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
