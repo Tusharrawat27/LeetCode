@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tusharrawat27/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tusharrawat27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tusharrawat27/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tusharrawat27/LeetCode/tree/master/0392-is-subsequence) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tusharrawat27/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Array
 |  |
 | ------- |
