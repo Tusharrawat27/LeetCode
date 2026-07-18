@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Tusharrawat27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tusharrawat27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tusharrawat27/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
