@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tusharrawat27/LeetCode/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tusharrawat27/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tusharrawat27/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharrawat27/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharrawat27/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tusharrawat27/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
