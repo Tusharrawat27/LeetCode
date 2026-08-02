@@ -1,20 +1,21 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        long long x = 0;
-        long long sum = 0;
-        long long len = 1;
+    long long x = 0;
+    long long sum = 0;
+    if(n == 0) {
+        return 0;
+    }
 
-        while(n>0) {
-            int digit = n % 10;
-            if(digit != 0) {
-                x = digit * len + x;
-                len = len *10;
-                sum = sum + digit;
-            }
-            n = n/10;
+    string s = to_string(n);
+
+    for(char ch : s) {
+        if(ch != '0') {
+            int digit = ch - '0';
+            x = x * 10 + digit;
+            sum = sum + digit;
         }
-
-        return x * sum;
+    }
+    return x * sum;
     }
 };
