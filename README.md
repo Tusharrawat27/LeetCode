@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Tusharrawat27/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tusharrawat27/LeetCode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tusharrawat27/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tusharrawat27/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharrawat27/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tusharrawat27/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tusharrawat27/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharrawat27/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharrawat27/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tusharrawat27/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tusharrawat27/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharrawat27/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tusharrawat27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharrawat27/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Tusharrawat27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Tusharrawat27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tusharrawat27/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
