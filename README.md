@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tusharrawat27/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tusharrawat27/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Tusharrawat27/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tusharrawat27/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tusharrawat27/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tusharrawat27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Tusharrawat27/LeetCode/tree/master/0739-daily-temperatures) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tusharrawat27/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Tusharrawat27/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Tusharrawat27/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tusharrawat27/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tusharrawat27/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tusharrawat27/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tusharrawat27/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tusharrawat27/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Tusharrawat27/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Tusharrawat27/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Tusharrawat27/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tusharrawat27/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tusharrawat27/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
